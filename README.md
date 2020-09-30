@@ -1,5 +1,5 @@
 # Whatsapp-MERN_stack
-Whatsapp web app using MERN(MongoDB,Express.js, React.js && Node.js) stack
+Whatsapp web app using MERN (MongoDB,Express.js, React.js && Node.js) stack
 
 ## How to run Backend on Localhost
 - Get into /whatsapp-backend
